@@ -48,3 +48,14 @@ $ rails server
    bundling.
 
 gem 'rails', '~> 6.1'に gemfile を変更して、bundle update を実行
+
+https://railstutorial.jp/chapters/static_pages?version=6.0#cha-static_pages
+
+# 自動テスト
+
+## guard
+
+#### 実行方法
+
+bundle exec guard init
+bundle exec guard
